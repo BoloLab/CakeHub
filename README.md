@@ -11,3 +11,4 @@ Atualmente, o site está em desenvolvimento e é hospedado pelo GitHub Pages.
 ### Link do Projeto
 
 Acesse o site: [CakeHub - Oficina do Bolo](https://bololab.github.io/CakeHub/)
+
